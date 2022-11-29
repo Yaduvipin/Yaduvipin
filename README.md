@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Yaduvipin 
 - 👀 I’m interested in data science machine learning and artificial intelligence
-- 🌱 I’m currently learning python , AI and ML 
-- 💞️ I’m looking to collaborate on project on AI and ML
+- 🌱 I’m currently learning python ,Data Analytics, AI and ML , MERN(Web Development)
+- 💞️ I’m looking to collaborate on project on AI and ML and Web Development
 - 📫 How to reach me @https://www.linkedin.com/in/vipin-kumar-yadav-028077250/
 
 <!---
