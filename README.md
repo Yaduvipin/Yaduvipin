@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Yaduvipin 
 - 👀 I’m interested in data science machine learning and artificial intelligence
-- 🌱 I’m currently learning python ,Data Analytics, AI and ML , MERN(Web Development)
-- 💞️ I’m looking to collaborate on project on AI and ML and Web Development
+-  Aspiring Data Cloud Engineer | Specializing in cloud data pipelines, ETL, and scalable analytics on AWS/Azure/GCP
+-  List core skills: Python, SQL, Docker, Kubernetes, Spark, Terraform, AWS/Azure/GCP, CI/CD with GitHub Actions.
+-  certification - Advance certification in cloud computing and Devops ( intelipaat and iit roorkee ) 
 - 📫 How to reach me @https://www.linkedin.com/in/vipin-kumar-yadav-028077250/
 
 <!---
